@@ -1,1 +1,3 @@
-# githubtraining1
+This application
+Emoji
+colors
